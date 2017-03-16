@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1444BC41F5F0D8006F75F2BB7D38113C78071062",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1444BC41F5F0D8006F75F2BB7D38113C78071062" : 9223372036854775807,
+    "7A906442519CFF3088CB8907A52031727763560A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E31DB57C-D831-4502-8C4C-6B945D69A251",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1444BC41F5F0D8006F75F2BB7D38113C78071062" : "diary\/",
+    "7A906442519CFF3088CB8907A52031727763560A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "diary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "diary.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LEESANGMINMS\/diary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1444BC41F5F0D8006F75F2BB7D38113C78071062"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/LEESANGMINMS\/Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A906442519CFF3088CB8907A52031727763560A"
+    }
+  ]
+}
